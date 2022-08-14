@@ -9,3 +9,7 @@
 **Prototype** is a way of passing through the fractions of the first partition of an n-dimensional cube
 
 **Basic transformation** is the operation that performs an isometric transformation of a fraction (rotation, reflection and/or reverse).
+
+# Hilbert curve
+
+
