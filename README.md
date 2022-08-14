@@ -1,6 +1,6 @@
 # Terminology
 
-Space-filling curve is a curve which maps a unit line segment to a continuous curve in the unit n-dimensional cube.
+**Space-filling curve** is a curve which maps a unit line segment to a continuous curve in the unit n-dimensional cube.
 
 Fraction is an n-dimensional subcube, which is some partition of an n-dimensional cube.
 
