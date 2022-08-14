@@ -66,7 +66,7 @@ class FractalCurve:
         if bm[-1] == '~':
             # Changing vector directions
             bm = bm[:-1].swapcase()
-            # Проходим вектора в обратном порядке
+            # Passing vectors in reverse order
             sub = reversed(sub)
             
         # Creating a base transformation dictionary, e.g. kIJ = {k->i,I->j,J->k} 
