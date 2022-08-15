@@ -12,4 +12,8 @@
 
 # Hilbert curve
 
+Let **i** = (1,0), **j** = (0,1), **I** = (-1,0) and **J** = (0,-1) then the prototype chain code for the Hilbert curve is p(0)=**jiJ**.
+
+
+
 ![image](./animation/Hilbert_curve.gif)
