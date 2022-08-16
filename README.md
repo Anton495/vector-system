@@ -16,6 +16,11 @@ Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)$, ${\bf I} = (-1,0)$ and ${\bf J} = (0,-
 
 $$P_{n+1} = ji(P_n),{\bf j},ij(P_n),{\bf i},ij(P_n),{\bf J},JI(P_n).$$
 
-Basic transformation $ji(P_n)\to ij$ means that $j\to i$, $i \to j$ and $J\to I$, $I \to J$ for $P_n$. It transforms the coordinates as follows
+Basic transformation $ji(P_n)\to ij$ means that $j\to i$, $i \to j$ and $J\to I$, $I \to J$ for $P_n$. 
+
+Basic transformation $JI(P_n)\to ij$ means that $J\to i$, $I \to j$ and $j\to I$, $i \to J$ for $P_n$. 
+
+It transforms the coordinates as follows:
+
 
 ![image](./animation/Hilbert_curve.gif)
