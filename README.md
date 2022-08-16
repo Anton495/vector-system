@@ -47,5 +47,8 @@ Permuting the letters in the base transformation is equivalent to permuting the 
 
 ![image](./animation/Peano_curve.gif)
 
+# H curve
+
+![image](./animation/H_curve.gif)
 
 
