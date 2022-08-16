@@ -23,12 +23,21 @@ Basic transformation $JI(P_n)\to ij$ means that $J\to i$, $I \to j$ and $j\to I$
 It transforms the coordinates as follows:
 
 $$ji(P_n)=\begin{pmatrix}
-j & i\\
+j& i\\
 y_1& x_1 \\
 y_2& x_2 \\
 \ldots& \ldots \\
 y_m& x_m
-\end{pmatrix}.$$
+\end{pmatrix},
+\qquad\qquad
+JI(P_n)=\begin{pmatrix}
+j& i\\
+-y_1& -x_1 \\
+-y_2& -x_2 \\
+\ldots& \ldots \\
+-y_m& -x_m
+\end{pmatrix}.
+$$
 
 
 ![image](./animation/Hilbert_curve.gif)
