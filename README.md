@@ -17,6 +17,6 @@ Let **i** = (1,0), **j** = (0,1), **I** = (-1,0) and **J** = (0,-1) then the pro
 
 P<sub>n+1</sub> = ji(P<sub>n</sub>), **j**, ij(P<sub>n</sub>), **i**, ij(P<sub>n</sub>), **J**, JI(P<sub>n</sub>)
 
-$$\left( \sum_{k=1}^n a_k b_k \right)^2$$
+
 
 ![image](./animation/Hilbert_curve.gif)
