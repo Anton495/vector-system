@@ -16,6 +16,6 @@ Let **i** = (1,0), **j** = (0,1), **I** = (-1,0) and **J** = (0,-1) then the pro
 
 
 
-<img src="https://latex.codecogs.com/gif.latex?\large&space; P_{n+1} = ji(P_n), {\bf j}, ij(P_n), {\bf i}, ij(P_n), {\bf J}, JI(P_n) "/> 
+<img src="https://latex.codecogs.com/gif.latex?\large&space; P_{n+1} = ji(P_{n}), {\bf j}, ij(P_{n}), {\bf i}, ij(P_{n}), {\bf J}, JI(P_{n}) "/> 
 
 ![image](./animation/Hilbert_curve.gif)
