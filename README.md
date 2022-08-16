@@ -57,6 +57,8 @@ $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P
 
 $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }\overline{iJ}(P_n),\text{ }{\bf i},\text{ }\overline{Ij}(P_n),\text{ }{\bf i},\text{ }ij(P_n).$$
 
+$$L = ij(P_n),\text{ }{\bf i},\text{ }IJ(P_n)$$
+
 ![image](./animation/H_curve.gif)
 
 
