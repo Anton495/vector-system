@@ -12,7 +12,7 @@
 
 # Hilbert curve
 
-Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)$ and ${\bf I} = (-1,0)$, ${\bf J} = (0,-1)$ then the prototype chain code for the Hilbert curve is $P_0 = {\bf jiJ}$. The recursive formula describing the Hilbert curve has the form:
+Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)$ and ${\bf I} = (-1,0)$, ${\bf J} = (0,-1)$ then the prototype chain code for the Hilbert curve is $P_0 = {\bf jiJ}$. The recursive formula describing this curve has the form:
 
 $$P_{n+1} = ji(P_n),\text{ }{\bf j},\text{ }ij(P_n),\text{ }{\bf i},\text{ }ij(P_n),\text{ }{\bf J},\text{ }JI(P_n).$$
 
@@ -44,6 +44,8 @@ Permuting the letters in the base transformation is equivalent to permuting the 
 ![image](./animation/Hilbert_curve.gif)
 
 # Peano curve
+
+Prototype chain code for the Peano curve is $P_0 = {\bf jjiJJijj}$. The recursive formula describing this curve has the form:
 
 ![image](./animation/Peano_curve.gif)
 
