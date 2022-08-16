@@ -47,7 +47,7 @@ Permuting the letters in the base transformation is equivalent to permuting the 
 
 Prototype chain code for the Peano curve is $P_0 = {\bf jjiJJijj}$. The recursive formula describing this curve has the form:
 
-$$P_{n+1} = ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n),\text{ }{\bf i},iJ(P_n),\text{ }{\bf J},IJ(P_n),\text{ }{\bf J},iJ(P_n),\text{ }{\bf i},ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n)$$
+$$P_{n+1} = ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n),\text{ }{\bf i},iJ(P_n),\text{ }{\bf J},IJ(P_n),\text{ }{\bf J},iJ(P_n),\text{ }{\bf i},ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n).$$
 
 ![image](./animation/Peano_curve.gif)
 
