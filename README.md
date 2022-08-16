@@ -31,7 +31,7 @@ y_m& x_m
 \end{pmatrix},
 \qquad\qquad
 JI(P_n)=\begin{pmatrix}
-j& i\\
+J& I\\
 -y_1& -x_1 \\
 -y_2& -x_2 \\
 \ldots& \ldots \\
