@@ -12,10 +12,7 @@
 
 # Hilbert curve
 
-Let **i** = (1,0), **j** = (0,1), **I** = (-1,0) and **J** = (0,-1) then the prototype chain code for the Hilbert curve is $P_0$ = **jiJ**. The recursive formula describing the curve has the form:
-
-
-P<sub>n+1</sub> = ji(P<sub>n</sub>), **j**, ij(P<sub>n</sub>), **i**, ij(P<sub>n</sub>), **J**, JI(P<sub>n</sub>)
+Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)$, ${\bf I} = (-1,0)$ and ${\bf J} = (0,-1)$ then the prototype chain code for the Hilbert curve is $P_0 = {\bf jiJ}$. The recursive formula describing the curve has the form:
 
 $$P_{n+1} = ji(P_n),{\bf j}, ij(P_n),{\bf i}, ij(P_n),{\bf J}, JI(P_n)$$
 
