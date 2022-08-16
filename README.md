@@ -39,6 +39,6 @@ J& I\\
 \end{pmatrix}.
 $$
 
-Permuting the letters in the base transformation is equivalent to permuting the columns in the matrix, and changing the case is equivalent to multiplying by -1.
+Permuting the letters in the base transformation is equivalent to permuting the columns in the matrix, and changing the letter case is equivalent to multiplying by -1.
 
 ![image](./animation/Hilbert_curve.gif)
