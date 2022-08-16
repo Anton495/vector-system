@@ -53,6 +53,10 @@ $$P_{n+1} = ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n),\text{ }{\bf
 
 # H curve
 
+Н curve is trangular curve. It was first obtained by Niedermeier R., Reinhardt K. and Sanders P. Prototype chain code for the H curve is $P_0 = {\bf j}$. The recursive formula describing this curve has the form:
+
+
+
 ![image](./animation/H_curve.gif)
 
 
