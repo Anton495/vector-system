@@ -47,7 +47,7 @@ Permuting the letters in the base transformation is equivalent to permuting the 
 
 Prototype chain code for the Peano curve is $P_0 = {\bf jjiJJijj}$. The recursive formula describing this curve has the form:
 
-$$P_{n+1} = ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n),\text{ }{\bf i},iJ(P_n),\text{ }{\bf J},IJ(P_n),\text{ }{\bf J},iJ(P_n),\text{ }{\bf i},ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n).$$
+$$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P_n),\text{ }{\bf i},\text{ }iJ(P_n),\text{ }{\bf J},\text{ }IJ(P_n),\text{ }{\bf J},\text{ }iJ(P_n),\text{ }{\bf i},\text{ }ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P_n).$$
 
 ![image](./animation/Peano_curve.gif)
 
@@ -55,7 +55,7 @@ $$P_{n+1} = ij(P_n),\text{ }{\bf j},Ij(P_n),\text{ }{\bf j},ij(P_n),\text{ }{\bf
 
 Н curve is trangular curve. It was first obtained by Niedermeier R., Reinhardt K. and Sanders P. Prototype chain code for the H curve is $P_0 = {\bf j}$. The recursive formula describing this curve has the form:
 
-$$P_{n+1} = ij(P_n),\text{} {\bf j},\text{} \overline{iJ}(P_n),\text{} {\bf i},\text{} \overline{Ij}(P_n),\text{} {\bf i},\text{} ij(P_n).$$
+$$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }\overline{iJ}(P_n),\text{ }{\bf i},\text{ }\overline{Ij}(P_n),\text{ }{\bf i},\text{ }ij(P_n).$$
 
 ![image](./animation/H_curve.gif)
 
