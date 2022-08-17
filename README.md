@@ -59,7 +59,7 @@ $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }\overline{iJ}(P_n),\text{ }{\bf i},\
 
 The curve is completed to a square according to the following rule:
 
-$$L = ij(P_n),\text{ }{\bf i},\text{ }IJ(P_n)$$
+$$L = ij(P_n),\text{ }{\bf i},\text{ }IJ(P_n).$$
 
 The line above the base transforms means reversal. This operation consists in changing the case of the letters of the base transformation and passing in the reverse order $P_n$.
 
