@@ -57,7 +57,30 @@ $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P
 
 $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }\overline{iJ}(P_n),\text{ }{\bf i},\text{ }\overline{Ij}(P_n),\text{ }{\bf i},\text{ }ij(P_n).$$
 
+The curve is completed to a square according to the following rule:
+
 $$L = ij(P_n),\text{ }{\bf i},\text{ }IJ(P_n)$$
+
+The line above the base transforms means reversal. This operation consists in changing the case of the letters of the base transformation and passing in the reverse order $P_n$.
+
+It transforms the coordinates as follows:
+
+$$\overline{iJ}(P_n)=\begin{pmatrix}
+i& J\\
+-x_m& y_m \\
+\ldots& \ldots \\
+-x_2& y_2 \\
+-x_1& y_1
+\end{pmatrix},
+\qquad\qquad
+\overline{Ij}(P_n)=\begin{pmatrix}
+I& j\\
+x_m& -y_m \\
+\ldots& \ldots \\
+x_2& -y_2 \\
+x_m& -y_m
+\end{pmatrix}.
+$$
 
 ![image](./animation/H_curve.gif)
 
