@@ -96,3 +96,19 @@ Changing the case of the letters of the base transformation is equivalent to mul
 # $\beta\Omega$ curve
 
 ![image](./animation/beta_Omega_curve_1.gif) ![image](./animation/beta_Omega_curve_2.gif)
+
+# $AR^2W^2$ curve
+
+![image](./animation/ARW_curve_1.gif) ![image](./animation/ARW_curve_2.gif)
+
+![image](./animation/ARW_curve_3.gif) ![image](./animation/ARW_curve_4.gif)
+
+
+
+
+
+
+
+
+
+
