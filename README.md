@@ -93,4 +93,5 @@ Changing the case of the letters of the base transformation is equivalent to mul
 
 ![image](./animation/H_curve.gif)
 
+# $\beta\Omega$ curve
 
