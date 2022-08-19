@@ -95,7 +95,7 @@ Changing the case of the letters of the base transformation is equivalent to mul
 
 # $\beta\Omega$ curve
 
-Prototype chain codes for the $\beta\Omega$ curve are $P_0^{(0)} = {\bf jiJ}$ and $P_0^{(1)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
+$\beta\Omega$ curve is bi-fractal curve. It was first obtained by Jens-Michael Wierum.Prototype chain codes for the $\beta\Omega$ curve are $P_0^{(0)} = {\bf jiJ}$ and $P_0^{(1)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
 
 $$P_{n+1}^{(0)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }\overline{ji}(P_n^{(1)}),\text{ }{\bf J},\text{ }\overline{IJ}(P_n^{(1)}),$$
 
@@ -117,13 +117,3 @@ $$P_{n+1}^{(3)} = ij(P_n^{(0)}),\text{ }{\bf j},\text{ }Ji(P_n^{(2)}),\text{ }{\
 
 ![image](./animation/ARW_curve_1.gif) ![image](./animation/ARW_curve_2.gif)
 ![image](./animation/ARW_curve_3.gif) ![image](./animation/ARW_curve_4.gif)
-
-
-
-
-
-
-
-
-
-
