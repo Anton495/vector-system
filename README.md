@@ -109,12 +109,11 @@ Prototype chain codes for the $AR^2W^2$ curve are $P_0^{(0)} = {\bf i,Ij,i}$, $P
 
 $$P_{n+1}^{(0)} = ij(P_n^{(3)}),\text{ }{\bf i},\text{ }\overline{jI}(P_n^{(1)}),\text{ }{\bf Ij},\text{ }Ji(P_n^{(2)}),\text{ }{\bf i},\text{ }iJ(P_n^{(1)}),$$
 
+$$P_{n+1}^{(1)} = ji(P_n^{(3)}),\text{ }{\bf j},\text{ }\overline{Ij}(P_n^{(2)}),\text{ }{\bf i},\text{ }ij(P_n^{(1)}),\text{ }{\bf J},\text{ }JI(P_n^{(1)}),$$
 
+$$P_{n+1}^{(2)} = ji(P_n^{(0)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }jI(P_n^{(0)}),\text{ }{\bf J},\text{ }JI(P_n^{(1)}),$$
 
-
-
-
-
+$$P_{n+1}^{(3)} = ij(P_n^{(0)}),\text{ }{\bf j},\text{ }Ji(P_n^{(2)}),\text{ }{\bf i},\text{ }jI(P_n^{(0)}),\text{ }{\bf J},\text{ }\overline{Ji}(P_n^{(3)}),$$
 
 ![image](./animation/ARW_curve_1.gif) ![image](./animation/ARW_curve_2.gif)
 ![image](./animation/ARW_curve_3.gif) ![image](./animation/ARW_curve_4.gif)
