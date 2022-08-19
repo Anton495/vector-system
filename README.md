@@ -97,9 +97,9 @@ Changing the case of the letters of the base transformation is equivalent to mul
 
 Prototype chain code for the $\beta\Omega$ curve are $P_0^{(0)} = {\bf jiJ}$ and $P_0^{(1)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
 
-$$P_{n+1}^{(0)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }\overline{ji}(P_n^{(1)}),\text{ }{\bf J},\text{ }\overline{IJ}(P_n^{(1)})$$
+$$P_{n+1}^{(0)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }\overline{ji}(P_n^{(1)}),\text{ }{\bf J},\text{ }\overline{IJ}(P_n^{(1)}),$$
 
-$$P_{n+1}^{(1)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }\overline{ji}(P_n^{(1)}),\text{ }{\bf J},\text{ } jI(P_n^{(0)})$$
+$$P_{n+1}^{(1)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }\overline{ji}(P_n^{(1)}),\text{ }{\bf J},\text{ } jI(P_n^{(0)}).$$
 
 ![image](./animation/beta_Omega_curve_1.gif) ![image](./animation/beta_Omega_curve_2.gif)
 
