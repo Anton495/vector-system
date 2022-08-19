@@ -95,6 +95,8 @@ Changing the case of the letters of the base transformation is equivalent to mul
 
 # $\beta\Omega$ curve
 
+Prototype chain code for the $\beta\Omega$ curve are $P_0^{(0)} = {\bf jiJ}$ and $P_0^{(1)} = {\bf jiJ}$.
+
 ![image](./animation/beta_Omega_curve_1.gif) ![image](./animation/beta_Omega_curve_2.gif)
 
 # $AR^2W^2$ curve
