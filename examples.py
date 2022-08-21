@@ -47,7 +47,7 @@ def get_beta_Omega_curve():
                          ['1iJ','1Ji','1ji~','0jI' ]]
     )
 
-#2d curve examples (quater-fractal)
+#2d curve examples (tetra-fractal)
     
 def get_ARW_curve():
     return FractalCurve(
