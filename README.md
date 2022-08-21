@@ -19,7 +19,7 @@ To define a curve means to specify its prototype and the sequence of basic trans
 
 # Hilbert curve
 
-Hilbert curve is mono-fractal curve. Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)$ and ${\bf I} = (-1,0)$, ${\bf J} = (0,-1)$ then the prototype chain code for the Hilbert curve is $P_0 = {\bf jiJ}$. The recursive formula describing this curve has the form:
+Hilbert curve is mono-fractal curve [1]. Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)$ and ${\bf I} = (-1,0)$, ${\bf J} = (0,-1)$ then the prototype chain code for the Hilbert curve is $P_0 = {\bf jiJ}$. The recursive formula describing this curve has the form:
 
 $$P_{n+1} = ji(P_n),\text{ }{\bf j},\text{ }ij(P_n),\text{ }{\bf i},\text{ }ij(P_n),\text{ }{\bf J},\text{ }JI(P_n).$$
 
@@ -52,7 +52,7 @@ Permuting the letters in the base transformation is equivalent to permuting the 
 
 # Peano curve
 
-Peano curve is mono-fractal curve. Prototype chain code for the Peano curve is $P_0 = {\bf jjiJJijj}$. The recursive formula describing this curve has the form:
+Peano curve is mono-fractal curve [2]. Prototype chain code for the Peano curve is $P_0 = {\bf jjiJJijj}$. The recursive formula describing this curve has the form:
 
 $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P_n),\text{ }{\bf i},\text{ }iJ(P_n),\text{ }{\bf J},\text{ }IJ(P_n),\text{ }{\bf J},\text{ }iJ(P_n),\text{ }{\bf i},\text{ }ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P_n).$$
 
@@ -60,7 +60,7 @@ $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P
 
 # H curve
 
-Н curve is trangular curve. It was first obtained by Niedermeier R., Reinhardt K. and Sanders P. Prototype chain code for the H curve is $P_0 = {\bf j}$. The recursive formula describing this curve has the form:
+Н curve is trangular curve. It was first obtained by Niedermeier R., Reinhardt K. and Sanders P. [3]. Prototype chain code for the H curve is $P_0 = {\bf j}$. The recursive formula describing this curve has the form:
 
 $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }\overline{iJ}(P_n),\text{ }{\bf i},\text{ }\overline{Ij}(P_n),\text{ }{\bf i},\text{ }ij(P_n).$$
 
@@ -95,7 +95,7 @@ Changing the case of the letters of the base transformation is equivalent to mul
 
 # $\beta\Omega$ curve
 
-$\beta\Omega$ curve is bi-fractal curve. It was first obtained by Jens-Michael Wierum. Prototype chain codes for the $\beta\Omega$ curve are $P_0^{(0)} = {\bf jiJ}$ and $P_0^{(1)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
+$\beta\Omega$ curve is bi-fractal curve. It was first obtained by Jens-Michael Wierum [4]. Prototype chain codes for the $\beta\Omega$ curve are $P_0^{(0)} = {\bf jiJ}$ and $P_0^{(1)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
 
 $$P_{n+1}^{(0)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }\overline{ji}(P_n^{(1)}),\text{ }{\bf J},\text{ }\overline{IJ}(P_n^{(1)}),$$
 
@@ -105,7 +105,7 @@ $$P_{n+1}^{(1)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\
 
 # $AR^2W^2$ curve
 
-$AR^2W^2$ curve is tetra-fractal curve. It was first obtained by T. Asano, D. Ranjan, T. Roos, E. Welzl and P. Widmayer. Prototype chain codes for the $AR^2W^2$ curve are $P_0^{(0)} = {\bf i,Ij,i}$, $P_0^{(1)} = {\bf jiJ}$, $P_0^{(2)} = {\bf jiJ}$ and $P_0^{(3)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
+$AR^2W^2$ curve is tetra-fractal curve. It was first obtained by T. Asano, D. Ranjan, T. Roos, E. Welzl and P. Widmayer [5]. Prototype chain codes for the $AR^2W^2$ curve are $P_0^{(0)} = {\bf i,Ij,i}$, $P_0^{(1)} = {\bf jiJ}$, $P_0^{(2)} = {\bf jiJ}$ and $P_0^{(3)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
 
 $$P_{n+1}^{(0)} = ij(P_n^{(3)}),\text{ }{\bf i},\text{ }\overline{jI}(P_n^{(1)}),\text{ }{\bf Ij},\text{ }Ji(P_n^{(2)}),\text{ }{\bf i},\text{ }iJ(P_n^{(1)}),$$
 
