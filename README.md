@@ -121,9 +121,13 @@ $$P_{n+1}^{(3)} = ij(P_n^{(0)}),\text{ }{\bf j},\text{ }Ji(P_n^{(2)}),\text{ }{\
 # Reference
 
 [1] D. Hilbert, Über die stetige Abbildung einer Linie auf ein Flächenstück, Math. Ann. 38 (3) (1891) 459–460.
+
 [2] G. Peano, Sur une courbe, qui remplit toute une aire plane, Math. Ann. 36 (1) (1890) 157–160.
+
 [3] R. Niedermeier, K. Reinhardt, P. Sanders, Towards optimal locality in mesh-indexings, Discrete Applied Mathematics 117 (2002) 211–237.
+
 [4] J.-M. Wierum, Definition of a new circular space-filling curve: $\beta\Omega$-indexing, Technical Report TR-001-02, Paderborn Center for Parallel Computing
 (PC2), 2002.
+
 [5] T. Asano, D. Ranjan, T. Roos, E. Welzl, P. Widmayer, Space-filling curves and their use in the design of geometric data structures, Theoretical Computer
 Science 181 (1) (1997) 3–15.
