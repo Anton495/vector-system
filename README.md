@@ -105,7 +105,7 @@ $$P_{n+1}^{(1)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\
 
 # $AR^2W^2$ curve
 
-$AR^2W^2$ curve is tetra-fractal curve. Prototype chain codes for the $AR^2W^2$ curve are $P_0^{(0)} = {\bf i,Ij,i}$, $P_0^{(1)} = {\bf jiJ}$, $P_0^{(2)} = {\bf jiJ}$ and $P_0^{(3)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
+$AR^2W^2$ curve is tetra-fractal curve. It was first obtained by T. Asano, D. Ranjan, T. Roos, E. Welzl, P. Widmayer. Prototype chain codes for the $AR^2W^2$ curve are $P_0^{(0)} = {\bf i,Ij,i}$, $P_0^{(1)} = {\bf jiJ}$, $P_0^{(2)} = {\bf jiJ}$ and $P_0^{(3)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
 
 $$P_{n+1}^{(0)} = ij(P_n^{(3)}),\text{ }{\bf i},\text{ }\overline{jI}(P_n^{(1)}),\text{ }{\bf Ij},\text{ }Ji(P_n^{(2)}),\text{ }{\bf i},\text{ }iJ(P_n^{(1)}),$$
 
@@ -117,3 +117,13 @@ $$P_{n+1}^{(3)} = ij(P_n^{(0)}),\text{ }{\bf j},\text{ }Ji(P_n^{(2)}),\text{ }{\
 
 ![image](./animation/ARW_curve_1.gif) ![image](./animation/ARW_curve_2.gif)
 ![image](./animation/ARW_curve_3.gif) ![image](./animation/ARW_curve_4.gif)
+
+# Reference
+
+[1] D. Hilbert, Über die stetige Abbildung einer Linie auf ein Flächenstück, Math. Ann. 38 (3) (1891) 459–460.
+[2] G. Peano, Sur une courbe, qui remplit toute une aire plane, Math. Ann. 36 (1) (1890) 157–160.
+[3] R. Niedermeier, K. Reinhardt, P. Sanders, Towards optimal locality in mesh-indexings, Discrete Applied Mathematics 117 (2002) 211–237.
+[4] J.-M. Wierum, Definition of a new circular space-filling curve: $\beta\Omega$-indexing, Technical Report TR-001-02, Paderborn Center for Parallel Computing
+(PC2), 2002.
+[5] T. Asano, D. Ranjan, T. Roos, E. Welzl, P. Widmayer, Space-filling curves and their use in the design of geometric data structures, Theoretical Computer
+Science 181 (1) (1997) 3–15.
