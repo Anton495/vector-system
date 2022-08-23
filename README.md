@@ -97,7 +97,7 @@ x_m& -y_m
 \end{pmatrix}.
 $$
 
-Changing the case of the letters of the base transformation is equivalent to multiplying the matrix by -1 and passing in the reverse order $P_n$ is equivalent to passing each column of the matrix in reverse order.
+Changing the case of the letters of the base transformation is equivalent to multiplying the matrix by -1 and passing in the reverse order P<sub>n</sub> is equivalent to passing each column of the matrix in reverse order.
 
 ![image](./animation/H_curve.gif)
 
