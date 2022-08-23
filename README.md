@@ -1,3 +1,6 @@
+
+Basic transformation $ji(P_n)\to ij$ means that $j\to i$, $i \to j$ and $J\to I$, $I \to J$ for $P_n$.
+
 # Terminology
 
 **Space-filling curve** is a curve which maps a unit line segment to a continuous curve in the unit n-dimensional cube.
