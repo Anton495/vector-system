@@ -64,7 +64,11 @@ $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P
 
 # H curve
 
-Н curve is trangular curve. It was first obtained by Niedermeier R., Reinhardt K. and Sanders P. [3]. Prototype chain code for the H curve is $P_0 = {\bf j}$. The recursive formula describing this curve has the form:
+Н curve is trangular curve. It was first obtained by Niedermeier R., Reinhardt K. and Sanders P. [3]. Prototype chain code for the H curve is 
+
+$$P_0 = {\bf j}.$$
+
+The recursive formula describing this curve has the form:
 
 $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }\overline{iJ}(P_n),\text{ }{\bf i},\text{ }\overline{Ij}(P_n),\text{ }{\bf i},\text{ }ij(P_n).$$
 
@@ -99,7 +103,11 @@ Changing the case of the letters of the base transformation is equivalent to mul
 
 # $\beta\Omega$ curve
 
-$\beta\Omega$ curve is bi-fractal curve. It was first obtained by Jens-Michael Wierum [4]. Prototype chain codes for the $\beta\Omega$ curve are $P_0^{(0)} = {\bf jiJ}$ and $P_0^{(1)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
+$\beta\Omega$ curve is bi-fractal curve. It was first obtained by Jens-Michael Wierum [4]. Prototype chain codes for the $\beta\Omega$ curve are 
+
+$$P_0^{(0)} = {\bf jiJ}, \quad P_0^{(1)} = {\bf jiJ}.$$
+
+The recursive formulas describing this curve has the form:
 
 $$P_{n+1}^{(0)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\bf i},\text{ }\overline{ji}(P_n^{(1)}),\text{ }{\bf J},\text{ }\overline{IJ}(P_n^{(1)}),$$
 
