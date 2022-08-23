@@ -6,7 +6,7 @@
 
 **Genus** is the number of fractions of the first partition of an n-dimensional cube.
 
-**Monofractal** - a curve constructed using one recurrent formula**
+**Monofractal** - a curve constructed using one recurrent formula
 
 **Polyfractal** - a curve constructed with the help of several recurrent formulas.
 
