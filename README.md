@@ -1,3 +1,21 @@
+# Terminology
+
+**Space-filling curve** is a curve which maps a unit line segment to a continuous curve in the unit n-dimensional cube.
+
+**Fraction** is an n-dimensional subcube, which is some partition of an n-dimensional cube.
+
+**Genus** is the number of fractions of the first partition of an n-dimensional cube.
+
+**Monofractal** - a curve constructed using one recurrent formula.
+
+**Polyfractal** - a curve constructed with the help of several recurrent formulas.
+
+**Prototype** is a way of passing through the fractions of the first partition of an n-dimensional cube.
+
+**Basic transformation** is the operation that performs an isometric transformation of a fraction (rotation, reflection and/or reverse).
+
+To define a curve means to specify its prototype and the sequence of basic transformations.
+
 
 # Hilbert curve
 
