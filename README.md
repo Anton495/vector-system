@@ -18,8 +18,6 @@
 
 To define a curve means to specify its prototype and the sequence of basic transformations.
 
-Basic transformation $ji(P_n)\to ij$ means that $j\to i$, $i \to j$ and $J\to I$, $I \to J$ for $P_n$.
-
 # Hilbert curve
 
 Hilbert curve is mono-fractal curve [1]. Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)$ and ${\bf I} = (-1,0)$, ${\bf J} = (0,-1)$ then the prototype chain code for the Hilbert curve is $P_0 = {\bf jiJ}$. The recursive formula describing this curve has the form:
