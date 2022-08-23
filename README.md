@@ -23,9 +23,9 @@ Hilbert curve is mono-fractal curve [1]. Let ${\bf i} = (1,0)$, ${\bf j} = (0,1)
 
 $$P_{n+1} = ji(P_n),\text{ }{\bf j},\text{ }ij(P_n),\text{ }{\bf i},\text{ }ij(P_n),\text{ }{\bf J},\text{ }JI(P_n).$$
 
-Basic transformation ji(P<sub>n</sub>) -> ij means that $j\to i$, $i \to j$ and $J\to I$, $I \to J$ for $P_n$.
+Basic transformation ji(P<sub>n</sub>) -> ij means that j -> i, i -> j and J -> I, I -> J for P<sub>n</sub>.
 
-Basic transformation $JI(P_n)\to ij$ means that $J\to i$, $I \to j$ and $j\to I$, $i \to J$ for $P_n$. 
+Basic transformation  JI(P<sub>n</sub>) -> ij means that J -> i, I ->j and j -> I, i -> J or P<sub>n</sub>. 
 
 It transforms the coordinates as follows:
 
