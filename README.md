@@ -25,7 +25,7 @@ $$P_{n+1} = ji(P_n),\text{ }{\bf j},\text{ }ij(P_n),\text{ }{\bf i},\text{ }ij(P
 
 Basic transformation ji(P<sub>n</sub>) -> ij means that j -> i, i -> j and J -> I, I -> J for P<sub>n</sub>.
 
-Basic transformation  JI(P<sub>n</sub>) -> ij means that J -> i, I ->j and j -> I, i -> J or P<sub>n</sub>. 
+Basic transformation  JI(P<sub>n</sub>) -> ij means that J -> i, I ->j and j -> I, i -> J for P<sub>n</sub>. 
 
 It transforms the coordinates as follows:
 
