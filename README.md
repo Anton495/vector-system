@@ -1,5 +1,4 @@
 
-Basic transformation $ji(P_n)\to ij$ means that $j\to i$, $i \to j$ and $J\to I$, $I \to J$ for $P_n$.
 
 # Terminology
 
@@ -19,6 +18,7 @@ Basic transformation $ji(P_n)\to ij$ means that $j\to i$, $i \to j$ and $J\to I$
 
 To define a curve means to specify its prototype and the sequence of basic transformations.
 
+Basic transformation $ji(P_n)\to ij$ means that $j\to i$, $i \to j$ and $J\to I$, $I \to J$ for $P_n$.
 
 # Hilbert curve
 
