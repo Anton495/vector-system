@@ -76,7 +76,7 @@ The curve is completed to a square according to the following rule:
 
 $$L = ij(P_n),\text{ }{\bf i},\text{ }IJ(P_n).$$
 
-The line above the base transforms means reversal. This operation consists in changing the case of the letters of the base transformation and passing in the reverse order P<sub>n</sub> $P_n$.
+The line above the base transforms means reversal. This operation consists in changing the case of the letters of the base transformation and passing in the reverse order P<sub>n</sub>.
 
 It transforms the coordinates as follows:
 
