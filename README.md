@@ -109,7 +109,11 @@ $$P_{n+1}^{(1)} = iJ(P_n^{(1)}),\text{ }{\bf j},\text{ }Ji(P_n^{(1)}),\text{ }{\
 
 # $AR^2W^2$ curve
 
-$AR^2W^2$ curve is tetra-fractal curve. It was first obtained by T. Asano, D. Ranjan, T. Roos, E. Welzl and P. Widmayer [5]. Prototype chain codes for the $AR^2W^2$ curve are $P_0^{(0)} = {\bf i,Ij,i}$, $P_0^{(1)} = {\bf jiJ}$, $P_0^{(2)} = {\bf jiJ}$ and $P_0^{(3)} = {\bf jiJ}$. The recursive formulas describing this curve has the form:
+$AR^2W^2$ curve is tetra-fractal curve. It was first obtained by T. Asano, D. Ranjan, T. Roos, E. Welzl and P. Widmayer [5]. Prototype chain codes for the $AR^2W^2$ curve are 
+
+$P_0^{(0)} = {\bf i,Ij,i}, \quod0^{(1)} = {\bf jiJ}$, quad $P_0^{(2)} = {\bf jiJ}$ and $P_0^{(3)} = {\bf jiJ}$. 
+
+The recursive formulas describing this curve has the form:
 
 $$P_{n+1}^{(0)} = ij(P_n^{(3)}),\text{ }{\bf i},\text{ }\overline{jI}(P_n^{(1)}),\text{ }{\bf Ij},\text{ }Ji(P_n^{(2)}),\text{ }{\bf i},\text{ }iJ(P_n^{(1)}),$$
 
