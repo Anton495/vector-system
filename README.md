@@ -53,7 +53,9 @@ Permuting the letters in the base transformation is equivalent to permuting the 
 # Peano curve
 
 Peano curve is mono-fractal curve [2]. Prototype chain code for the Peano curve is 
+
 $$P_0 = {\bf jjiJJijj}.$$ 
+
 The recursive formula describing this curve has the form:
 
 $$P_{n+1} = ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P_n),\text{ }{\bf i},\text{ }iJ(P_n),\text{ }{\bf J},\text{ }IJ(P_n),\text{ }{\bf J},\text{ }iJ(P_n),\text{ }{\bf i},\text{ }ij(P_n),\text{ }{\bf j},\text{ }Ij(P_n),\text{ }{\bf j},\text{ }ij(P_n).$$
