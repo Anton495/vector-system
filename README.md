@@ -103,7 +103,7 @@ Changing the case of the letters of the base transformation is equivalent to mul
 
 # $\beta\Omega$ curve
 
-$\beta\Omega$ curve is bi-fractal curve. It was first obtained by Jens-Michael Wierum [4]. Prototype chain codes for the $\beta\Omega$ curve are 
+βΩ curve is bi-fractal curve. It was first obtained by Jens-Michael Wierum [4]. Prototype chain codes for the βΩ curve are 
 
 $$P_0^{(0)} = {\bf jiJ}, \quad P_0^{(1)} = {\bf jiJ}.$$
 
