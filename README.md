@@ -93,7 +93,7 @@ I& j\\
 x_m& -y_m \\
 \ldots& \ldots \\
 x_2& -y_2 \\
-x_m& -y_m
+x_1& -y_1
 \end{pmatrix}.
 $$
 
