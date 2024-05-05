@@ -134,7 +134,7 @@ $$P_{n+1}^{(3)} = ij(P_n^{(0)}),\text{ }{\bf j},\text{ }Ji(P_n^{(2)}),\text{ }{\
 ![image](./animation/ARW_curve_1.gif) ![image](./animation/ARW_curve_2.gif)
 ![image](./animation/ARW_curve_3.gif) ![image](./animation/ARW_curve_4.gif)
 
-# Reference
+# References
 
 [1] D. Hilbert, Über die stetige Abbildung einer Linie auf ein Flächenstück, Math. Ann. 38 (3) (1891) 459–460.
 
